@@ -48,7 +48,7 @@
         <attr name="np_textStrikeThru" format="boolean" />
         <attr name="np_textUnderline" format="boolean" />
         <attr name="np_typeface" format="string" />
-        <attr name="np_value" format="integer" />
+        <attr name="np_value" format="string" />
         <attr name="np_wheelItemCount" format="integer" />
         <attr name="np_wrapSelectorWheel" format="boolean" />
     </declare-styleable>
